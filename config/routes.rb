@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :users, path: '', path_names: { sign_in: 'login', sign_out: 'logout', sign_up: 'register' }
   resources :portfolios, except: [:show]
   get 'angular-items', to: 'portfolios#angular'
   get 'portfolio/:id', to: 'portfolios#show', as: 'portfolio_show'
@@ -7,10 +8,10 @@ Rails.application.routes.draw do
   get 'contact', to: 'pages#contact'
 
   resources :blogs do
-    member do 
+    member do
       get :toggle_status
     end
   end
-
+  
   root to: 'pages#home'
 end

@@ -1,0 +1,340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"portfolios"
+			],
+			[
+				"port",
+				"portfolio_item"
+			],
+			[
+				"portf",
+				"portfolio_items"
+			],
+			[
+				"Port",
+				"portfolio_items"
+			],
+			[
+				"p",
+				"portfolio_item"
+			],
+			[
+				"col",
+				"colgroup\tTag"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"new",
+				"new_users"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"cre",
+				"create_secure_users"
+			],
+			[
+				"get",
+				"get_area_code"
+			],
+			[
+				"city",
+				"city_name"
+			],
+			[
+				"ci",
+				"city_names"
+			],
+			[
+				"ge",
+				"get_city_names"
+			],
+			[
+				"cit",
+				"city_name"
+			],
+			[
+				"input",
+				"input_city"
+			],
+			[
+				"inp",
+				"input_city"
+			],
+			[
+				"aut",
+				"auth_user"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"fir",
+				"first_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Local Dependency"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/models/portfolio.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/views/portfolios/new.html.erb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/views/portfolios/show.html.erb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/controllers/portfolios_controller.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/views/portfolios/angular.html.erb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/config/routes.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/controllers/pages_controller.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/models/technology.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/db/seeds.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/db/schema.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/models/skill.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/controllers/concerns/placeholder.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/views/blogs/index.html.erb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/models/blog.rb",
+		"/Users/clintwilliams/Documents/2_Query_Files/mySQL/People/jegan.sql",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/models/topic.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/views/portfolios/index.html.erb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/db/migrate/20200219182826_add_post_status_to_blogs.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/controllers/blogs_controller.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/views/portfolios/edit.html.erb",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/Gemfile",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/views/portfolios/new.html.erb.html",
+		"/Users/clintwilliams/Documents/Full_Stack/test/intro.html",
+		"/Users/clintwilliams/Documents/ruby_projects/alpha_blog/Gemfile",
+		"/Users/clintwilliams/Documents/ruby_projects/alpha_blog/app/views/pages/about.html.erb",
+		"/Users/clintwilliams/Documents/ruby_projects/alpha_blog/app/views/pages/home.html.erb",
+		"/Users/clintwilliams/Library/Application Support/Sublime Text 3/Packages/User/Choose Browser.sublime-build",
+		"/Users/clintwilliams/Documents/ruby_projects/node-js-getting-started/index.js",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/app/views/pages/home.html.erb",
+		"/Users/clintwilliams/Documents/ruby_projects/alpha_blog/node-js-getting-started/index.js",
+		"/Users/clintwilliams/Documents/ruby_projects/alpha_blog/config/application.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/alpha_blog/config/environments/production.rb",
+		"/Users/clintwilliams/Documents/ruby_projects/alpha_blog/config/environments/development.rb",
+		"/Users/clintwilliams/Documents/2_Query_Files/mySQL/People/awilliams.sql",
+		"/Users/clintwilliams/Documents/Full_Stack/Project_001/001_Basic_HTML_Programming/Final_Project/Index.html",
+		"/Users/clintwilliams/Documents/ruby_projects/DevcampPortfolio/db/migrate/20200130175702_create_blogs.rb",
+		"/Users/clintwilliams/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/clintwilliams/.rvm/gems/ruby-2.3.6/extensions/x86_64-darwin-18/2.3.0/pg-1.2.2/gem_make.out",
+		"/Users/clintwilliams/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/clintwilliams/Documents/ruby/alpha_blog/Gemfile.lock",
+		"/Users/clintwilliams/Documents/ruby/alpha_blog/Gemfile",
+		"/Users/clintwilliams/Documents/ruby/main_crud.rb",
+		"/Users/clintwilliams/Documents/ruby/oop_projects/student_instance.rb",
+		"/Users/clintwilliams/Documents/ruby/practice.html",
+		"/Users/clintwilliams/Documents/ruby/crud.rb",
+		"/Users/clintwilliams/Documents/ruby/password_module.rb",
+		"/Users/clintwilliams/Documents/ruby/server.js",
+		"/Users/clintwilliams/Documents/ruby/index.html",
+		"/Users/clintwilliams/Documents/ruby/bcrypt.rb",
+		"/Users/clintwilliams/Documents/ruby/oop_projects/student.rb",
+		"/Users/clintwilliams/Documents/ruby/area_code_dictionary.rb",
+		"/Users/clintwilliams/Documents/ruby/authenticator.rb",
+		"/Users/clintwilliams/Documents/ruby/array.rb",
+		"/Users/clintwilliams/Documents/ruby/calculator.rb",
+		"/Users/clintwilliams/Documents/ruby/analyzer.rb",
+		"/Users/clintwilliams/Documents/ruby/rordev_course.rb",
+		"/Users/clintwilliams/.local/share/.gtt/config.yml",
+		"/Users/clintwilliams/Documents/RubyVision/scripts/dump-db.rb",
+		"/Users/clintwilliams/Downloads/dump-db2.rb",
+		"/Users/clintwilliams/Documents/RubyVision/.my.cnf",
+		"/Users/clintwilliams/Documents/2_Query_Files/mySQL/Metrics/2c_completions.sql",
+		"/Users/clintwilliams/Documents/2_Query_Files/mySQL/Metrics/Product_validate.sql",
+		"/Users/clintwilliams/Documents/2_Query_Files/mySQL/Metrics/Product_visto.sql",
+		"/Users/clintwilliams/Documents/2_Query_Files/mySQL/Product_vision.sql"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Choose Browser.sublime-build",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -15,4 +15,8 @@ module ApplicationHelper
       content_tag(:p, greeting, class: "source-greeting")
     end
   end
+
+  def copyright_generator
+    CwilliamsViewTool::Renderer.copyright 'Clint L. Williams', 'All Rights Reserved'
+  end
 end

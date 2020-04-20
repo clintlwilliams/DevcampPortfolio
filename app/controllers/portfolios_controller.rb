@@ -1,7 +1,7 @@
 class PortfoliosController < ApplicationController
   before_action :set_portfolio_item, only: [:edit, :show, :update, :destroy]
-layout 'portfolio'
-access all: [:show, :index, :angular], user: {except: [:destroy, :new, :create, :update, :edit]}, site_admin: :all
+  layout 'portfolio'
+  access all: [:show, :index, :angular], user: {except: [:destroy, :new, :create, :update, :edit]}, site_admin: :all
 
   def index
     @portfolio_items = Portfolio.all
@@ -50,7 +50,7 @@ access all: [:show, :index, :angular], user: {except: [:destroy, :new, :create, 
 
     # Redirect
     respond_to do |format|
-      format.html { redirect_to portfolios_url, notice: 'Record was removed.' }
+      format.html { redirect_to portfolios_url, notice: 'The record was removed.' }
     end
   end
 

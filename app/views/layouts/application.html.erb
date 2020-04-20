@@ -11,10 +11,10 @@
   </head>
 
   <body>
+    <%= render "shared/nav", location: 'top' %>
+    
     <p class="notice"><%= notice %></p>
     <p class="alert"><%= alert %></p>
-
-    <%= render "shared/nav", location: 'top' %>
 
     <%= login_helper %>
 

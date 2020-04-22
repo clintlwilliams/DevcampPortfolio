@@ -11,6 +11,8 @@
   </head>
 
   <body>
+    <%= render "shared/nav", location: 'top' %>
+
     <p class="notice"><%= notice %></p>
     <p class="alert"><%= alert %></p>
 
@@ -18,8 +20,6 @@
 
     <%= yield %>
     
-    <%= render "shared/nav", location: 'top' %>
-
     <%= source_helper("blog") %>
   </body>
 </html>
